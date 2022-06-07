@@ -4,7 +4,7 @@ import { StarWarsApiService } from './services/star-wars-api/star-wars-api.servi
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
+  template: '',
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent implements OnInit {
